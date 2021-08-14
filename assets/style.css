@@ -74,11 +74,12 @@ section {
     position: absolute;
     bottom: 120px;
     right: 140px;
+}
 
 /* Footer */
 
 footer {
-    background: #fce138;
+    background-color: #fce138;
     width: 100%;
     padding: 40px 35px;
 }
